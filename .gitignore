@@ -1,2 +1,4 @@
 ubuntu*
 **.vagrant**
+
+**venv**
